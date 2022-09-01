@@ -1,2 +1,2 @@
 #!/bin/bash
-go=rwu, u=r
+o=rwx, g=rx, u=r
