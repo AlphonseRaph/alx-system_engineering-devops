@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..m}-{a..z}\n o-{a..m}\n o-{p..z}\n {p..z}-{a..z}\n
